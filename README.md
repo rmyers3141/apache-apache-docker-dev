@@ -1,4 +1,4 @@
-# apache-apache-docker-dev
+# apache-http-docker-dev
 Creation of a custom Docker image for Apache HTTP Server 2.4.x
 
 ## Overview
